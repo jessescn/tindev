@@ -22,6 +22,6 @@ server.use(express.json());
 server.use(routes);
 
 //Ouvindo a porta 3333
-server.listen(3333);
+server.listen(3800);
 
 // M - Model, V - View, C - Controller
